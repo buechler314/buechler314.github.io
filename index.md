@@ -4,5 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: true
+title: "Welcome"
+header:
+  overlay_image: /assets/images/DSC_0174_00010.jpg
 ---
 Hello this is a test
