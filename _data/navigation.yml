@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Path"
+    url: /path/
   - title: "Research"
     url: /research/
   - title: "Publications"
@@ -11,3 +13,5 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+  - title: "CV"
+    url: /assets/files/CV_placeholder.pdf
