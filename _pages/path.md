@@ -8,4 +8,4 @@ author_profile: true  # Optional
 Path
 {% include figure image_path="/assets/images/test.jpg" alt="Alt text here" width="100%" %}
 
-{% include /assets/images/sin_plot.html %}
+<iframe src="/assets/sine_plot.html" width="100%" height="500px" style="border:none;"></iframe>
