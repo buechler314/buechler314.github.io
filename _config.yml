@@ -62,15 +62,18 @@ author:
   avatar : "/assets/images/Rob_Buechler_headshot.jpeg"
   bio    : "Mechanical Engineering PhD Candidate at Stanford"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/rob-buechler/"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=k_8EYPUAAAAJ&hl=en"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/ruechler.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/buechler314"
 
 footer:
   links:
@@ -79,7 +82,7 @@ footer:
       url: "https://bsky.app/profile/ruechler.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/buechler314"
 
 defaults:
   # _posts
@@ -91,7 +94,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
