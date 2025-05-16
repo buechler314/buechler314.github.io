@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 layout: single
+toc: true
 author_profile: true  # Optional
 ---
 Work in progress...
