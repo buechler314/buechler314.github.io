@@ -7,19 +7,5 @@ author_profile: true
 header:
   image: /assets/images/DSC_0174_00010.jpg
 ---
-# Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
-Hello this is a test
+# Welcome to my website!
+Work in progress. Please check back soon!
