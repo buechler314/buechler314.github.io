@@ -75,14 +75,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/buechler314"
 
-footer:
-  links:
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/ruechler.bsky.social"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/buechler314"
+# footer:
+#   links:
+#     - label: "Bluesky"
+#       icon: "fa-brands fa-bluesky"
+#       url: "https://bsky.app/profile/ruechler.bsky.social"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/buechler314"
 
 defaults:
   # _posts
