@@ -4,4 +4,4 @@ permalink: /research/
 layout: single
 author_profile: true  # Optional
 ---
-Research
+More info coming soon!
