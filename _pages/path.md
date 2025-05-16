@@ -8,4 +8,4 @@ author_profile: true  # Optional
 Path
 {% include figure image_path="/assets/images/test.jpg" alt="Alt text here" width="100%" %}
 
-{% include sin_plot.html %}
+{% include /assets/images/sin_plot.html %}
