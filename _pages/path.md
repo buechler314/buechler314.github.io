@@ -2,6 +2,7 @@
 title: "Path"
 permalink: /path/
 layout: single
+classes: wide
 author_profile: true  # Optional
 ---
 Path
