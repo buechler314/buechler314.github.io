@@ -9,9 +9,7 @@ main:
     url: /publications/
   - title: "Fun"
     url: /fun/
-  - title: "Posts"
+  - title: "Posts/Updates"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "CV"
     url: /assets/files/CV_placeholder.pdf
