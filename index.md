@@ -6,7 +6,7 @@ layout: splash
 title: "Something Something"
 excerpt: "Something something something"
 header:
-  image: /assets/images/DSC_0174_00010.jpg
+  overlay_image: /assets/images/DSC_0174_00010.jpg
 ---
 
 # Welcome to my website!
