@@ -17,7 +17,7 @@ G. Zuin, **R. Buechler**, T. Sun, C. Zanocco, F. Galuppo, A. Veloso, R. Rajagopa
 *Energy (2023)* 
 
 [Performance evaluation of automated data-driven feature extraction and selection methods for practical and scalable building energy consumption prediction models](https://www.sciencedirect.com/science/article/abs/pii/S2352710225002815)  
-Janghyun Kim, Stephen Frank, Robert Buechler, Sakshi Mishra, Anya Petersen, Liang Zhang, Hannah Eslinger.  
+J. Kim, S. Frank, **R. Buechler**, S. Mishra, A. Petersen, L. Zhang, H. Eslinger.  
 *Journal of Building Engineering (2025)*
 
 # Conference papers and presentations
