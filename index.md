@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 header:
-  image: /assets/images/DSC_0174_00010.jpg
+  image: /assets/images/personal_website_cover.jpg
 ---
 
 # Welcome to my website!
