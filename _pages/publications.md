@@ -7,7 +7,7 @@ author_profile: true  # Optional
 Work in progress...
 Check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=k_8EYPUAAAAJ&view_op=list_works&sortby=pubdate) page for an updated list.
 
-* Journal Publications
+# Journal Publications
 
 [Temperature responses from methane mitigation approaches vary widely due to non-methane impacts](https://iopscience.iop.org/article/10.1088/1748-9326/ad60e0/meta)  
 S. Abernathy, **R. Buechler**, M. Kessler, R. Jackson.
@@ -21,7 +21,7 @@ G. Zuin, **R. Buechler**, T. Sun, C. Zanocco, F. Galuppo, A. Veloso, R. Rajagopa
 Janghyun Kim, Stephen Frank, Robert Buechler, Sakshi Mishra, Anya Petersen, Liang Zhang, Hannah Eslinger.
 *Journal of Building Engineering (2025)*
 
-* Conference papers and presentations
+# Conference papers and presentations
   
 [Assessing Climate Change Impacts on Electricity Consumption: Micro to Macro Perspectives from California’s Commercial Sector to Brazil's National Grid](https://ui.adsabs.harvard.edu/abs/2023AGUFMGC23J1183S/abstract)
 T. Sun, C. Zanocco, G. Zuin, **R. Buechler**, J. Flora, F. Galuppo, R. Rajagopal.
@@ -51,12 +51,12 @@ R. Dabaja, **R. Buechler**, S. Bak, G. Mendonca, B. Popa, M. Banu.
 **R. Buechler**, M. Larranaga, M. Fowler, T. Welch, S. Miller.
 *Idaho Conference for Undergraduate Research (ICUR), Boise State University (2017)*
 
-* Open-source code contributions
+# Open-source code contributions
 [Wattile: Probabilistic Deep Learning-Based Forecasting of Building Energy Consumption](https://www.osti.gov/biblio/1968566)
 S. Frank, A. Petersen, S. Mishra, J. Kim, L. Zhang, H. Eslinger, **R. Buechler**.
 *National Renewable Energy Laboratory (2020)*
 
-* Preprints
+# Preprints
   
 [Deep-Learning-Based, Multi-Timescale Load Forecasting in Buildings: Opportunities and Challenges from Research to Deployment](https://arxiv.org/abs/2008.05458)
 S. Mishra, S. M. Frank, A. Petersen, **R. Buechler**, and M. Slovensky.
@@ -66,7 +66,7 @@ S. Mishra, S. M. Frank, A. Petersen, **R. Buechler**, and M. Slovensky.
 E. Balogun, **R. Buechler**, R. Rajagopal, and A. Majumdar.
 *arXiv (2023)*
 
-* Institutional Essays/White Papers
+# Institutional Essays/White Papers
 [Transformation Of The American Electric Grid: The Unmet Agenda](https://www.hoover.org/research/transformation-american-electric-grid-unmet-agenda)
 D. Victor, D. Fedor, and **R. Buechler**,
 *Hoover Institution (2022)*
