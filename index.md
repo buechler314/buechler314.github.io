@@ -3,9 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-author_profile: true
+title: "Something Something"
+excerpt: "Something something something"
 header:
   image: /assets/images/DSC_0174_00010.jpg
 ---
+
 # Welcome to my website!
 Work in progress. Please check back soon!
