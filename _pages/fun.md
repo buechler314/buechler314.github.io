@@ -16,12 +16,27 @@ gallery_biking:
   - image_path: "/assets/images/biking_2 Large.jpg"
   - image_path: "/assets/images/biking_3 Large.jpg"
 
+gallery_hiking:
+  - image_path: "/assets/images/biking_2 Large.jpeg"
+  - image_path: "/assets/images/hiking_3 Large.jpeg"
+  - image_path: "/assets/images/hiking_4 Large.jpeg"
+  - image_path: "/assets/images/hiking_5 Large.jpeg"
+  - image_path: "/assets/images/hiking_6 Large.jpeg"
+  - image_path: "/assets/images/hiking_7 Large.jpeg"
+  - image_path: "/assets/images/hiking_8 Large.jpeg"
+  - image_path: "/assets/images/hiking_9 Large.jpeg"
+  - image_path: "/assets/images/hiking_10 Large.jpeg"
+  - image_path: "/assets/images/hiking_11 Large.jpeg"
+  - image_path: "/assets/images/hiking_12 Large.jpeg"
+  - image_path: "/assets/images/hiking_13 Large.jpeg"
+
 ---
 More info coming soon!
 # Biking
 {% include gallery id="gallery_biking" caption="Locations in Idaho and California" %}
 
 # Hiking
-...
+{% include gallery id="gallery_hiking" caption="Locations in Idaho, California, Colorado, Iceland" %}
+
 # Backcountry skiing 
 {% include gallery id="gallery_skiing" caption="Locations in Idaho and California" %}
