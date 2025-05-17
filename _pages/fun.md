@@ -17,7 +17,7 @@ gallery_biking:
   - image_path: "/assets/images/biking_3 Large.jpg"
 
 gallery_hiking:
-  - image_path: "/assets/images/biking_2 Large.jpeg"
+  - image_path: "/assets/images/hiking_2 Large.jpeg"
   - image_path: "/assets/images/hiking_3 Large.jpeg"
   - image_path: "/assets/images/hiking_4 Large.jpeg"
   - image_path: "/assets/images/hiking_5 Large.jpeg"
