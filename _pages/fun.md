@@ -17,4 +17,4 @@ More info coming soon!
 # Hiking
 ...
 # Backcountry skiing 
-{% include gallery_skiing caption="Locations in Idaho and California" %}
+{% include gallery id="gallery_skiing" caption="Locations in Idaho and California" %}
