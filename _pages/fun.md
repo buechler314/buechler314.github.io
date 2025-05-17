@@ -33,10 +33,10 @@ gallery_hiking:
 ---
 More info coming soon!
 # Biking
-{% include gallery id="gallery_biking" caption="Locations in Idaho and California" %}
+{% include gallery id="gallery_biking" layout="half" caption="Locations in Idaho and California" %}
 
 # Hiking
-{% include gallery id="gallery_hiking" caption="Locations in Idaho, California, Colorado, Iceland" %}
+{% include gallery id="gallery_hiking" layout="half" caption="Locations in Idaho, California, Colorado, Iceland" %}
 
 # Backcountry skiing 
-{% include gallery id="gallery_skiing" caption="Locations in Idaho and California" %}
+{% include gallery id="gallery_skiing" layout="half" caption="Locations in Idaho and California" %}
